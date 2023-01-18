@@ -1,0 +1,23 @@
+Please find below description for practical
+
+    - Create 1 user registration form where almost HTML5 form fields(textbox, textarea, dropdown, radio, fileupload, checkbox etc..) should be covered.
+    - Perform Add / Edit / Delete with that form data
+    - Create 1 list page where all user data will be listed
+    - Form must contains Client side as well as server side validation.
+    - User must able to upload profile picture within form
+    - There should be username and email field which should be unique in whole data of users (You may use AJAX to check it)
+    - Country & State fields dropdown dependency using Ajax.
+    - Search feature by email and username on listing page
+    - Pagination using PHP or Ajax (It will benificial if you can do it. )
+
+
+Technical Specification
+
+- Use PHP to complete this test, not allowed any kind of ready made framework
+- If you can use jQuery that would be beneficial
+- Code must be clean, readable and understandable
+- Create PHP functions wherever it requires
+- Re-use code wherever it's possible, instead of replicating code for same feature.
+- Don't use readymade jQuery grid for listing, pagination, filter, search, etc...
+
+If you have any questions feel free to ask
